@@ -1,6 +1,6 @@
 ## XR Collaboratory
 
-The XR Collaboratory at Cornell Tech accelerates education and research in virtual and augmented reality with course offerings, projects, and cross-campus collaborations.
+The [XR Collaboratory](https://xrcollaboratory.tech.cornell.edu/) at [Cornell Tech](https://tech.cornell.edu/) accelerates education and research in virtual and augmented reality with course offerings, projects, and cross-campus collaborations.
 
 Our primary interests are in 3D user interfaces and interaction design for head-mounted displays. We build high-fidelity prototypes with our students through projects and coursework, and collaborate with Cornell faculty on AR/VR-related research across disciplines such as computer vision, computer graphics, and human-computer interaction.
 
@@ -8,7 +8,7 @@ The XR Collaboratory is located on the Cornell Tech campus, one subway stop from
 
 ## XRC Toolkit
 
-The **_XRC Toolkit_** is a collection of tools and 3D interaction techniques, developed by the XR Collaboratory at Cornell Tech, for accelerating AR/VR prototyping.
+The [XRC Toolkit](https://xrcollaboratory.github.io/xrc-toolkit/) is a collection of tools and 3D interaction techniques, developed by the XR Collaboratory at Cornell Tech, for accelerating AR/VR prototyping.
 
 **Note:** The XRC Toolkit docs can be found at [xrcollaboratory.github.io/xrc-toolkit](https://xrcollaboratory.github.io/xrc-toolkit/)
 
