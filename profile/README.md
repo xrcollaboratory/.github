@@ -8,7 +8,9 @@ The XR Collaboratory is located on the Cornell Tech campus, one subway stop from
 
 ## XRC Toolkit
 
-**Note:** The **_XRC Toolkit_** docs can be found at [xrcollaboratory.github.io/xrc-toolkit](https://xrcollaboratory.github.io/xrc-toolkit/)
+The **_XRC Toolkit_** is a collection of tools and 3D interaction techniques, developed by the XR Collaboratory at Cornell Tech, for accelerating AR/VR prototyping.
+
+**Note:** The XRC Toolkit docs can be found at [xrcollaboratory.github.io/xrc-toolkit](https://xrcollaboratory.github.io/xrc-toolkit/)
 
 | | | |
 |:---:|:---:|:---:|
