@@ -6,6 +6,10 @@ Our primary interests are in 3D user interfaces and interaction design for head-
 
 The XR Collaboratory is located on the Cornell Tech campus, one subway stop from Manhattan’s Upper East Side, on Roosevelt Island.
 
+## XRC Toolkit
+
+**Note:** The XRC Toolkit docs can be found at [https://xrcollaboratory.github.io/xrc-toolkit/](https://xrcollaboratory.github.io/xrc-toolkit/)
+
 <!--
 
 **Here are some ideas to get you started:**
