@@ -8,7 +8,14 @@ The XR Collaboratory is located on the Cornell Tech campus, one subway stop from
 
 ## XRC Toolkit
 
-**Note:** The XRC Toolkit docs can be found at [https://xrcollaboratory.github.io/xrc-toolkit/](https://xrcollaboratory.github.io/xrc-toolkit/)
+**Note:** The **_XRC Toolkit_** docs can be found at [xrcollaboratory.github.io/xrc-toolkit](https://xrcollaboratory.github.io/xrc-toolkit/)
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.agents/images/overview/edu.cornell.xrc.toolkit.agents.png" alt="XRC Agents" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.ai/images/overview/edu.cornell.xrc.toolkit.ai.png" alt="XRC AI" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.core/images/overview/edu.cornell.xrc.toolkit.core.png" alt="XRC Core" width="250" /> |
+| <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.create/images/overview/edu.cornell.xrc.toolkit.create.png" alt="XRC Create" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.gogo/images/overview/edu.cornell.xrc.toolkit.gogo.png" alt="XRC Go-Go" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.grabmove/images/overview/edu.cornell.xrc.toolkit.grabmove.png" alt="XRC Grab Move" width="250" /> |
+| <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.motor/images/overview/edu.cornell.xrc.toolkit.motor.png" alt="XRC Motor" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.repeat/images/overview/edu.cornell.xrc.toolkit.repeat.png" alt="XRC Repeat" width="250" /> | <img src="https://xrcollaboratory.github.io/edu.cornell.xrc.toolkit.speech/images/overview/edu.cornell.xrc.toolkit.speech.png" alt="XRC Speech" width="250" /> | |
+
 
 <!--
 
